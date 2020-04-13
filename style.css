@@ -186,6 +186,7 @@ p {
 	font-size: 1.2rem;
 }
 
+ 
 @keyframes rotation {
 	from {
 		transform: rotate(0deg);
